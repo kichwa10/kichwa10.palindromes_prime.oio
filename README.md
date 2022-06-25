@@ -1,0 +1,1 @@
+# kichwa10.palindromes_prime.oio
